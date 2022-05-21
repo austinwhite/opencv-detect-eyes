@@ -1,1 +1,1 @@
-# portrait-timelapse-generator-opencv
+# opencv-detect-eyes 
